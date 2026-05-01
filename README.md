@@ -101,6 +101,8 @@ Official and community implementations of the x402 protocol.
   - Core protocol types and utilities
   - Payment verification and settlement logic
   - Multi-chain support (Base, Base Sepolia, Ethereum, Solana)
+- [x402-data-api](https://github.com/155143783/x402-data-api) - HTTP 402 micro-payment data API with Base chain USDC payments. 16 developer data tools including email validation, DNS lookup, WHOIS, SSL check, and IP geolocation with x402 payment integration.
+
 - [x402-express](https://github.com/coinbase/x402/tree/main/examples/typescript/servers/express) - Express.js middleware example.
 
 ### Python
